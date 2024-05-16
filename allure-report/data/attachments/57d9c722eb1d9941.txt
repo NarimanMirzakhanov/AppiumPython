@@ -1,0 +1,8 @@
+INFO     pages.base_page:base_page.py:23 Clicking on an Element flights_XPATH
+INFO     pages.base_page:base_page.py:23 Clicking on an Element flightfrom_ID
+INFO     pages.base_page:base_page.py:43 Typing in an Element search_ID entered the value as: San Francisco
+INFO     pages.base_page:base_page.py:33 Clicking on an Element selectfrom_XPATH with index: 2
+INFO     pages.base_page:base_page.py:23 Clicking on an Element destination_ID
+INFO     pages.base_page:base_page.py:43 Typing in an Element search_ID entered the value as: Makhachkala
+INFO     pages.base_page:base_page.py:33 Clicking on an Element selectfrom_XPATH with index: 2
+INFO     pages.base_page:base_page.py:23 Clicking on an Element search_XPATH

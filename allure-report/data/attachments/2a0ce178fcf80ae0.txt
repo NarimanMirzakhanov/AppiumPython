@@ -1,0 +1,5 @@
+INFO     pages.base_page:base_page.py:23 Clicking on an Element hotels_XPATH
+INFO     pages.base_page:base_page.py:23 Clicking on an Element destination_XPATH
+INFO     pages.base_page:base_page.py:43 Typing in an Element searchtext_XPATH entered the value as: ['Delhi']
+INFO     pages.base_page:base_page.py:33 Clicking on an Element selectlocation_XPATH with index: 2
+INFO     pages.base_page:base_page.py:23 Clicking on an Element closepopup_ID

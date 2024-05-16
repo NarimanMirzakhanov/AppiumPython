@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"8aa64d10feed6045a4e10c7284286242","name":"test_search_hotel","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"6808f01ebb5e65e7ee98afa0a56068b0","name":"test_search_flights","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

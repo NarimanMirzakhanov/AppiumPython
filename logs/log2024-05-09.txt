@@ -1,0 +1,82 @@
+2024-05-09 00:16:28,191 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:16:34,650 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:16:51,999 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:16:57,265 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:19:36,712 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:19:41,968 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:20:03,191 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:20:08,473 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:20:47,078 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:20:52,345 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:21:11,351 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:21:16,603 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:21:52,857 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:21:58,114 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:22:20,238 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:22:25,518 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:27:07,733 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:27:13,019 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:27:14,895 - base_page.py:[43] - [INFO] - Typing in an Element searchtext_XPATH entered the value as : ['Delhi']
+2024-05-09 00:27:15,112 - base_page.py:[33] - [INFO] - Clicking on an Element selectlocation_XPATHwith index : 2
+2024-05-09 00:27:16,802 - base_page.py:[23] - [INFO] - Clicking on an Element closepopup_ID
+2024-05-09 00:27:44,107 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:27:49,366 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:27:51,289 - base_page.py:[43] - [INFO] - Typing in an Element searchtext_XPATH entered the value as : ['Dubai']
+2024-05-09 00:27:51,502 - base_page.py:[33] - [INFO] - Clicking on an Element selectlocation_XPATHwith index : 2
+2024-05-09 00:27:53,226 - base_page.py:[23] - [INFO] - Clicking on an Element closepopup_ID
+2024-05-09 00:28:36,772 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:28:42,051 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:28:43,868 - base_page.py:[43] - [INFO] - Typing in an Element searchtext_XPATH entered the value as : ['Delhi']
+2024-05-09 00:28:47,749 - base_page.py:[33] - [INFO] - Clicking on an Element selectlocation_XPATHwith index : 2
+2024-05-09 00:28:47,898 - base_page.py:[23] - [INFO] - Clicking on an Element closepopup_ID
+2024-05-09 00:29:14,922 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:29:20,201 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:29:22,097 - base_page.py:[43] - [INFO] - Typing in an Element searchtext_XPATH entered the value as : ['Dubai']
+2024-05-09 00:29:24,443 - base_page.py:[33] - [INFO] - Clicking on an Element selectlocation_XPATHwith index : 2
+2024-05-09 00:29:26,202 - base_page.py:[23] - [INFO] - Clicking on an Element closepopup_ID
+2024-05-09 00:33:58,709 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:34:05,225 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:34:05,915 - base_page.py:[43] - [INFO] - Typing in an Element searchtext_XPATH entered the value as : ['Delhi']
+2024-05-09 00:34:09,903 - base_page.py:[33] - [INFO] - Clicking on an Element selectlocation_XPATHwith index : 2
+2024-05-09 00:34:10,046 - base_page.py:[23] - [INFO] - Clicking on an Element closepopup_ID
+2024-05-09 00:34:26,263 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 00:34:32,773 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 00:34:33,459 - base_page.py:[43] - [INFO] - Typing in an Element searchtext_XPATH entered the value as : ['Dubai']
+2024-05-09 00:34:35,720 - base_page.py:[33] - [INFO] - Clicking on an Element selectlocation_XPATHwith index : 2
+2024-05-09 00:34:37,521 - base_page.py:[23] - [INFO] - Clicking on an Element closepopup_ID
+2024-05-09 01:08:28,763 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-09 01:08:30,934 - base_page.py:[23] - [INFO] - Clicking on an Element from_ID
+2024-05-09 01:08:30,934 - base_page.py:[43] - [INFO] - Typing in an Element com.goibibo:id/search_edit entered the value as: ['Delhi']
+2024-05-09 01:08:59,210 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-09 01:09:01,851 - base_page.py:[23] - [INFO] - Clicking on an Element from_ID
+2024-05-09 01:09:01,851 - base_page.py:[43] - [INFO] - Typing in an Element com.goibibo:id/search_edit entered the value as: ['Dubai']
+2024-05-09 01:11:46,975 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-09 01:11:50,215 - base_page.py:[23] - [INFO] - Clicking on an Element flightfrom_ID
+2024-05-09 01:11:52,118 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: ['Delhi']
+2024-05-09 01:12:17,461 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-09 01:12:21,032 - base_page.py:[23] - [INFO] - Clicking on an Element flightfrom_ID
+2024-05-09 01:12:22,945 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: ['Dubai']
+2024-05-09 01:17:34,657 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-09 01:17:37,836 - base_page.py:[23] - [INFO] - Clicking on an Element flightfrom_ID
+2024-05-09 01:17:39,737 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: ['Delhi']
+2024-05-09 01:18:07,658 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-09 01:18:11,887 - base_page.py:[23] - [INFO] - Clicking on an Element flightfrom_ID
+2024-05-09 01:18:13,800 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: ['Dubai']
+2024-05-09 01:30:09,369 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 01:30:14,622 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 01:30:16,502 - base_page.py:[43] - [INFO] - Typing in an Element searchtext_XPATH entered the value as: ['Delhi']
+2024-05-09 01:30:18,801 - base_page.py:[33] - [INFO] - Clicking on an Element selectlocation_XPATH with index: 1
+2024-05-09 01:30:20,536 - base_page.py:[23] - [INFO] - Clicking on an Element closepopup_ID
+2024-05-09 01:30:36,455 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-09 01:30:42,926 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-09 01:30:43,612 - base_page.py:[43] - [INFO] - Typing in an Element searchtext_XPATH entered the value as: ['Dubai']
+2024-05-09 01:30:45,885 - base_page.py:[33] - [INFO] - Clicking on an Element selectlocation_XPATH with index: 1
+2024-05-09 01:30:47,710 - base_page.py:[23] - [INFO] - Clicking on an Element closepopup_ID
+2024-05-09 01:31:09,113 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-09 01:31:12,240 - base_page.py:[23] - [INFO] - Clicking on an Element flightfrom_ID
+2024-05-09 01:31:14,146 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: ['Delhi']
+2024-05-09 01:31:15,825 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-09 01:31:33,005 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-09 01:31:37,860 - base_page.py:[23] - [INFO] - Clicking on an Element flightfrom_ID
+2024-05-09 01:31:38,603 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: ['Dubai']
+2024-05-09 01:31:40,515 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2

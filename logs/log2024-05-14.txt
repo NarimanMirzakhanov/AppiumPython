@@ -1,0 +1,73 @@
+2024-05-14 02:11:27,335 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-14 02:11:29,275 - base_page.py:[23] - [INFO] - Clicking on an Element flightfrom_ID
+2024-05-14 02:11:30,028 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: San Francisco
+2024-05-14 02:11:31,877 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:11:34,106 - base_page.py:[23] - [INFO] - Clicking on an Element destination_ID
+2024-05-14 02:11:36,044 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: Makhachkala
+2024-05-14 02:11:37,788 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:11:40,104 - base_page.py:[23] - [INFO] - Clicking on an Element search_XPATH
+2024-05-14 02:11:41,597 - base_page.py:[23] - [INFO] - Clicking on an Element gotitbtn_ID
+2024-05-14 02:12:20,456 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-14 02:12:26,851 - base_page.py:[23] - [INFO] - Clicking on an Element flightfrom_ID
+2024-05-14 02:12:27,590 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: San Francisco
+2024-05-14 02:12:29,332 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:12:30,834 - base_page.py:[23] - [INFO] - Clicking on an Element destination_ID
+2024-05-14 02:12:32,722 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: Makhachkala
+2024-05-14 02:12:34,538 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:12:36,728 - base_page.py:[23] - [INFO] - Clicking on an Element search_XPATH
+2024-05-14 02:12:38,208 - base_page.py:[23] - [INFO] - Clicking on an Element gotitbtn_ID
+2024-05-14 02:13:13,712 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-14 02:13:16,906 - base_page.py:[23] - [INFO] - Clicking on an Element flightfrom_ID
+2024-05-14 02:13:18,801 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: San Francisco
+2024-05-14 02:13:20,391 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:13:21,973 - base_page.py:[23] - [INFO] - Clicking on an Element destination_ID
+2024-05-14 02:13:23,849 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: Makhachkala
+2024-05-14 02:13:25,680 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:13:28,057 - base_page.py:[23] - [INFO] - Clicking on an Element search_XPATH
+2024-05-14 02:13:30,096 - base_page.py:[23] - [INFO] - Clicking on an Element gotitbtn_ID
+2024-05-14 02:14:00,335 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-14 02:14:02,471 - base_page.py:[23] - [INFO] - Clicking on an Element flightfrom_ID
+2024-05-14 02:14:04,395 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: San Francisco
+2024-05-14 02:14:05,579 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:14:09,964 - base_page.py:[23] - [INFO] - Clicking on an Element destination_ID
+2024-05-14 02:14:11,879 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: Makhachkala
+2024-05-14 02:14:13,705 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:14:15,995 - base_page.py:[23] - [INFO] - Clicking on an Element search_XPATH
+2024-05-14 02:14:17,999 - base_page.py:[23] - [INFO] - Clicking on an Element gotitbtn_ID
+2024-05-14 02:14:49,647 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-14 02:14:52,873 - base_page.py:[23] - [INFO] - Clicking on an Element flightfrom_ID
+2024-05-14 02:14:54,800 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: San Francisco
+2024-05-14 02:14:56,658 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:14:58,236 - base_page.py:[23] - [INFO] - Clicking on an Element destination_ID
+2024-05-14 02:15:00,154 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: Makhachkala
+2024-05-14 02:15:01,868 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:15:04,005 - base_page.py:[23] - [INFO] - Clicking on an Element search_XPATH
+2024-05-14 02:15:05,516 - base_page.py:[23] - [INFO] - Clicking on an Element gotitbtn_ID
+2024-05-14 02:16:14,764 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-14 02:16:18,138 - base_page.py:[23] - [INFO] - Clicking on an Element flightfrom_ID
+2024-05-14 02:16:20,050 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: San Francisco
+2024-05-14 02:16:21,885 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:16:23,390 - base_page.py:[23] - [INFO] - Clicking on an Element destination_ID
+2024-05-14 02:16:25,321 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: Makhachkala
+2024-05-14 02:16:27,172 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:16:30,131 - base_page.py:[23] - [INFO] - Clicking on an Element search_XPATH
+2024-05-14 02:16:32,606 - base_page.py:[23] - [INFO] - Clicking on an Element gotitbtn_ID
+2024-05-14 02:17:15,711 - base_page.py:[23] - [INFO] - Clicking on an Element flights_XPATH
+2024-05-14 02:17:17,218 - base_page.py:[23] - [INFO] - Clicking on an Element flightfrom_ID
+2024-05-14 02:17:19,068 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: San Francisco
+2024-05-14 02:17:21,000 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:17:24,813 - base_page.py:[23] - [INFO] - Clicking on an Element destination_ID
+2024-05-14 02:17:25,553 - base_page.py:[43] - [INFO] - Typing in an Element search_ID entered the value as: Makhachkala
+2024-05-14 02:17:27,306 - base_page.py:[33] - [INFO] - Clicking on an Element selectfrom_XPATH with index: 2
+2024-05-14 02:17:28,982 - base_page.py:[23] - [INFO] - Clicking on an Element search_XPATH
+2024-05-14 02:17:30,769 - base_page.py:[23] - [INFO] - Clicking on an Element gotitbtn_ID
+2024-05-14 02:17:58,710 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-14 02:18:03,969 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-14 02:18:05,918 - base_page.py:[43] - [INFO] - Typing in an Element searchtext_XPATH entered the value as: ['Delhi']
+2024-05-14 02:18:08,306 - base_page.py:[33] - [INFO] - Clicking on an Element selectlocation_XPATH with index: 2
+2024-05-14 02:18:10,128 - base_page.py:[23] - [INFO] - Clicking on an Element closepopup_ID
+2024-05-14 02:19:06,078 - base_page.py:[23] - [INFO] - Clicking on an Element hotels_XPATH
+2024-05-14 02:19:12,614 - base_page.py:[23] - [INFO] - Clicking on an Element destination_XPATH
+2024-05-14 02:19:13,296 - base_page.py:[43] - [INFO] - Typing in an Element searchtext_XPATH entered the value as: ['Dubai']
+2024-05-14 02:19:15,572 - base_page.py:[33] - [INFO] - Clicking on an Element selectlocation_XPATH with index: 2
+2024-05-14 02:19:17,417 - base_page.py:[23] - [INFO] - Clicking on an Element closepopup_ID
