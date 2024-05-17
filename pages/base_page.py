@@ -12,7 +12,7 @@ class BasePage:
 
     def __init__(self, driver):
         self.driver = driver
-
+    #this is the click method
     def click(self, locator):
         if str(locator).endswith("_XPATH"):
             self.driver.find_element(AppiumBy.XPATH, (config_reader.read_config("locators", locator))).click()
